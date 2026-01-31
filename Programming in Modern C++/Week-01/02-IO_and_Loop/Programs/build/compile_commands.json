@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/2nd Year Notes/NPTEL Lectures/Programming in Modern C++/Week-01/02-IO_and_Loop/Programs/build",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\hello.dir\\src\\helloWorld.cpp.obj /FdCMakeFiles\\hello.dir\\ /FS -c \"D:\\2nd Year Notes\\NPTEL Lectures\\Programming in Modern C++\\Week-01\\02-IO_and_Loop\\Programs\\src\\helloWorld.cpp\"",
+  "file": "D:/2nd Year Notes/NPTEL Lectures/Programming in Modern C++/Week-01/02-IO_and_Loop/Programs/src/helloWorld.cpp",
+  "output": "D:/2nd Year Notes/NPTEL Lectures/Programming in Modern C++/Week-01/02-IO_and_Loop/Programs/build/CMakeFiles/hello.dir/src/helloWorld.cpp.obj"
+},
+{
+  "directory": "D:/2nd Year Notes/NPTEL Lectures/Programming in Modern C++/Week-01/02-IO_and_Loop/Programs/build",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\add.dir\\src\\addNumbers.cpp.obj /FdCMakeFiles\\add.dir\\ /FS -c \"D:\\2nd Year Notes\\NPTEL Lectures\\Programming in Modern C++\\Week-01\\02-IO_and_Loop\\Programs\\src\\addNumbers.cpp\"",
+  "file": "D:/2nd Year Notes/NPTEL Lectures/Programming in Modern C++/Week-01/02-IO_and_Loop/Programs/src/addNumbers.cpp",
+  "output": "D:/2nd Year Notes/NPTEL Lectures/Programming in Modern C++/Week-01/02-IO_and_Loop/Programs/build/CMakeFiles/add.dir/src/addNumbers.cpp.obj"
+},
+{
+  "directory": "D:/2nd Year Notes/NPTEL Lectures/Programming in Modern C++/Week-01/02-IO_and_Loop/Programs/build",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\sqrt.dir\\src\\squareRoot.cpp.obj /FdCMakeFiles\\sqrt.dir\\ /FS -c \"D:\\2nd Year Notes\\NPTEL Lectures\\Programming in Modern C++\\Week-01\\02-IO_and_Loop\\Programs\\src\\squareRoot.cpp\"",
+  "file": "D:/2nd Year Notes/NPTEL Lectures/Programming in Modern C++/Week-01/02-IO_and_Loop/Programs/src/squareRoot.cpp",
+  "output": "D:/2nd Year Notes/NPTEL Lectures/Programming in Modern C++/Week-01/02-IO_and_Loop/Programs/build/CMakeFiles/sqrt.dir/src/squareRoot.cpp.obj"
+},
+{
+  "directory": "D:/2nd Year Notes/NPTEL Lectures/Programming in Modern C++/Week-01/02-IO_and_Loop/Programs/build",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\sum.dir\\src\\sumOfN.cpp.obj /FdCMakeFiles\\sum.dir\\ /FS -c \"D:\\2nd Year Notes\\NPTEL Lectures\\Programming in Modern C++\\Week-01\\02-IO_and_Loop\\Programs\\src\\sumOfN.cpp\"",
+  "file": "D:/2nd Year Notes/NPTEL Lectures/Programming in Modern C++/Week-01/02-IO_and_Loop/Programs/src/sumOfN.cpp",
+  "output": "D:/2nd Year Notes/NPTEL Lectures/Programming in Modern C++/Week-01/02-IO_and_Loop/Programs/build/CMakeFiles/sum.dir/src/sumOfN.cpp.obj"
+}
+]
